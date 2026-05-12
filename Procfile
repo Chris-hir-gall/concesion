@@ -1,1 +1,1 @@
-postdeploy: php bin/console doctrine:migrations:migratev-n
+postdeploy: php bin/console doctrine:migrations:migratev -n
